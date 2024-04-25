@@ -1,0 +1,8 @@
+﻿Algorithm,Accuracy Score
+Decision Tree,0.762
+Naïve Bayes,0.494
+Logistic,0.743
+SVM,0.758
+KNN,0.763
+Keras,0.753
+Random Forest,0.746
